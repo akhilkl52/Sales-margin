@@ -1,1 +1,3 @@
-# sles-margin
+# sales-margin
+
+This analysis provides report on sales and Margin of a company. It includes various visualizations to help and analyze and understand key aspects of the business. given dataset of Sales which consists of one table raw_data. The fact table is the order table which consists of all the informations related to the sales and magrin across world. Data cleaning- First of all, I have done data cleaning which is to remove the null rows and columns. Sales by Region (Map):Used the map visual to visually represent sales across different regions. Sales by different regions (Stacked Column Chart): The tables corresponding to the visualisations were created where we can easily access the top most and lowermost countries, cities , region or market based on total sales. In addition to these, some basic visualisations are also done like displaying the total margin, total sales, total revenue.
